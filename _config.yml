@@ -17,8 +17,8 @@ title: DS261 AI for Medical Image Analysus
 tagline: --
 description: Course webpage
 author: PM
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://ds261.github.io/august2022' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/august2022' # the subpath of your site, e.g. /blog
+url: 'https://ds261.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
