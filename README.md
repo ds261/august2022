@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Just the Class
+title: DS261: AI for Medical Image Analysis
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: DS261
 ---
 
-# Just the Class
+# DS 261
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Welcome to the course webpage!
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
