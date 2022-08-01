@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DS261 AI for Medical Image Analysus
+title: DS261 
 tagline: --
 description: Course webpage
 author: PM
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  CDS IISc:
+    - 'https://cds.iisc.ac.in/'
+  Prof Phaneendra Yalavarthy:
+    - 'http://cds.iisc.ac.in/faculty/yalavarthy/'
 footer_content:
 
 # Collections for website data
