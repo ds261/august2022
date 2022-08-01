@@ -3,7 +3,7 @@ layout: page
 title: About
 description: >-
     Course policies and information.
-order: 5
+order: 4
 ---
 
 # About
