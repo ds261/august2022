@@ -28,7 +28,7 @@ schedule:
         location: 202 CDS
   - name: Wednesday
   - name: Thursday
-    events
+    events:
       - name: Lecture
             start: 3:30 PM
             end: 5:00 PM
