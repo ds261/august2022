@@ -21,17 +21,18 @@ timeline:
 schedule:
   - name: Monday
   - name: Tuesday
-  - events:
+    events:
       - name: Lecture
         start: 3:30 PM
         end: 5:00 PM
         location: 202 CDS
   - name: Wednesday
   - name: Thursday
-  - name: Lecture
-        start: 3:30 PM
-        end: 5:00 PM
-        location: 202 CDS
+    events
+      - name: Lecture
+            start: 3:30 PM
+            end: 5:00 PM
+            location: 202 CDS
   - name: Friday
     events:
       - name: Office Hours
