@@ -1,6 +1,6 @@
 ---
 layout: home
-title: DS261: AI for Medical Image Analysis
+title: DS261 AI for Medical Image Analysis
 nav_exclude: true
 permalink: index.html
 seo:
