@@ -8,9 +8,7 @@ seo:
   name: DS261
 ---
 
-## Course outline
-
-Artificial Intelligence (AI) for Medical Image Analysis is a current research area, where new developments are taking place every single day! This course covers the theory and technology (tools) parts. The other part of clinical implementation will not be covered in this course. Project will involve development of a compact solution to current problem/s in medical imaging using AI, such that it will enhance your understanding of challenges related to medical imaging.
+# AI for Medical Image Analysis
 
 ## Instructors
 1. Prof Phaneendra K. Yalavarthy, Ph.D. (yalavarthy[AT]iisc.ac.in) 
@@ -21,10 +19,18 @@ _Office_: Room No-305 (CDS); Office Hours: 3:30PM–5:00PM (Friday)
 ### Teaching assistant
 * Mr. Naveen Paluru, Ph.D. student of CDS (naveenp[AT]iisc.ac.in)
 
+## Schedule
+
+3:30 PM - 5:00 PM on Tuesdays and Thursdays; Place: Room No: 202 of CDS.
+
 ## Resources[^1]
 
 1. Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series), Kevin P. Murphy, The MIT Press, March 2022.
 2. Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence, Jon Krohn, Grant Beyleveld, and Aglae Bassens – Addison Wesley, 2019.
+
+## Course outline
+
+Artificial Intelligence (AI) for Medical Image Analysis is a current research area, where new developments are taking place every single day! This course covers the theory and technology (tools) parts. The other part of clinical implementation will not be covered in this course. Project will involve development of a compact solution to current problem/s in medical imaging using AI, such that it will enhance your understanding of challenges related to medical imaging.
 
 ## Grading
 
