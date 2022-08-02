@@ -8,32 +8,43 @@ seo:
   name: DS261
 ---
 
-# AI for Medical Image Analysis
+## Course outline
 
-Welcome to the course webpage!
+Artificial Intelligence (AI) for Medical Image Analysis is a current research area, where new developments are taking place every single day! This course covers the theory and technology (tools) parts. The other part of clinical implementation will not be covered in this course. Project will involve development of a compact solution to current problem/s in medical imaging using AI, such that it will enhance your understanding of challenges related to medical imaging.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## Instructors
+1. Prof Phaneendra K. Yalavarthy, Ph.D. (yalavarthy[AT]iisc.ac.in) 
+2. Prasad S. Murthy, Ph.D. (psudhaka[AT]pm.me)
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+_Office_: Room No-305 (CDS); Office Hours: 3:30PM–5:00PM (Friday)
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+### Teaching assistant
+* Mr. Naveen Paluru, Ph.D. student of CDS (naveenp[AT]iisc.ac.in)
 
-## Getting Started
+## Resources[^1]
 
-Getting started with Just the Class is simple.
+1. Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series), Kevin P. Murphy, The MIT Press, March 2022.
+2. Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence, Jon Krohn, Grant Beyleveld, and Aglae Bassens – Addison Wesley, 2019.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+## Grading
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Homeworks: 15%, Journal Paper Presentations: 10%, Midterm Exam: 25%, Project: 25%, and Final Exam: 25%.
 
-### Local development environment
+## Assignments
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+There will be 4 homework problem sets with a specific due date and time. All homework problems require computer programming. Best three of them will be used for the grading. There will be one journal paper presentation, where the student will present the assigned paper. This presentation will be evaluated on the comprehensiveness and breadth of the material covered.
+Each student will either choose or come with a project proposal by the end of first six weeks from start of the course. These proposals will be evaluated based on relevance and feasibility for proceeding further. Before three weeks of completion of course (last week of November), final report of the project should be submitted. _Late submission (beyond the due date and time) of homework solutions/project report will result in no credit_. Final project presentations will be scheduled in the first week of December.
+
+## Midterm/Final exam
+
+Both midterm and final exam will test primarily the theory part of the course. Students will be allowed to carry one sheet of paper (A4 size) to the exam, which can contain important formulas/constants. A model exam will be posted on the course webpage for reference at least two weeks before the exam.  Note that the course material that is covered in the midterm exam will not be part of the final exam.
+
+## Honour principle
+
+_You are welcome to exchange ideas in solving homework problems with your col-
+leagues, but all the work submitted for grading (homework, presentations, project, and midterm/final
+exam) must be your own work (i.e., you must have worked out all details by yourself). Copying computer
+code or files (including the material on the web) without proper citation is considered as plagiarism._ **Any
+deviation from this principle will result in failing of the class.**
+
+[^1]: Supplementary texts will be used depending on the topic.
