@@ -9,7 +9,7 @@ order: 3
 
 Following is the tentative calendar for the course.
 
-<img width="747" alt="image" src="./assets/images/ds261-calendar.png">
+<img alt="image" src="/assets/images/ds261-calendar.png">
 
 <!-- {% for module in site.modules %}
 {{ module }}
