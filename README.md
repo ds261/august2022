@@ -21,7 +21,7 @@ _Office_: Room No-305 (CDS); Office Hours: 3:30PM–5:00PM (Friday)
 
 ## Schedule
 
-3:30 PM - 5:00 PM on Tuesdays and Thursdays; Place: Room No: 202 of CDS.
+3:30PM - 5:00PM on Tuesdays and Thursdays; Place: Room No: 202 of CDS.
 
 ## Resources[^1]
 
