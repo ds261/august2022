@@ -11,13 +11,13 @@ seo:
 # AI for Medical Image Analysis
 
 ## Instructors
-1. Prof Phaneendra K. Yalavarthy, Ph.D. (yalavarthy[AT]iisc.ac.in) 
-2. Prasad S. Murthy, Ph.D. (psudhaka[AT]pm.me)
+1. [Prof Phaneendra K. Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/), Ph.D. (yalavarthy[AT]iisc.ac.in) 
+2. [Prasad S. Murthy](https://psudhaka.github.io), Ph.D. (psudhaka[AT]pm.me)
 
 _Office_: Room No-305 (CDS); Office Hours: 3:30PM–5:00PM (Friday)
 
 ### Teaching assistant
-* Mr. Naveen Paluru, Ph.D. student of CDS (naveenp[AT]iisc.ac.in)
+* [Mr. Naveen Paluru](https://sites.google.com/view/naveenpaluru/home), Ph.D. student of CDS (naveenp[AT]iisc.ac.in)
 
 ## Schedule
 
