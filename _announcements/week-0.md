@@ -1,7 +1,6 @@
 ---
-title: Preamble
-week: 0
-date: 2022-08-03
+title: 03 August 2022
+week: -
 ---
 
 Course website is up! 
