@@ -7,6 +7,10 @@ order: 3
 
 # Calendar
 
-{% for module in site.modules %}
+Following is the tentative calendar for the course.
+
+<img width="747" alt="image" src="assets/images/ds261-calendar.png">
+
+<!-- {% for module in site.modules %}
 {{ module }}
-{% endfor %}
+{% endfor %}-->
