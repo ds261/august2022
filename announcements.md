@@ -8,7 +8,7 @@ order: 2
 
 # Announcements
 
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+All course related announcements are made here.
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
