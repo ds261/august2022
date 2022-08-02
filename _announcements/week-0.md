@@ -1,8 +1,8 @@
 ---
-title: Week 0 Announcement
+title: Preamble
 week: 0
-date: 2019-04-01
+date: 2022-08-03
 ---
 
-Hello world!
+Course website is up! 
 {: .fs-5 }
