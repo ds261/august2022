@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  CDS IISc:
+  CDS:
     - 'https://cds.iisc.ac.in/'
-  Prof Phaneendra Yalavarthy:
-    - 'http://cds.iisc.ac.in/faculty/yalavarthy/'
+  IISc:
+    - 'https://www.iisc.ac.in'
 footer_content:
 
 # Collections for website data
