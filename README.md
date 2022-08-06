@@ -47,8 +47,7 @@ Both midterm and final exam will test primarily the theory part of the course. S
 
 ## Honour principle
 
-_You are welcome to exchange ideas in solving homework problems with your col-
-leagues, but all the work submitted for grading (homework, presentations, project, and midterm/final
+_You are welcome to exchange ideas in solving homework problems with your colleagues, but all the work submitted for grading (homework, presentations, project, and midterm/final
 exam) must be your own work (i.e., you must have worked out all details by yourself). Copying computer
 code or files (including the material on the web) without proper citation is considered as plagiarism._ **Any
 deviation from this principle will result in failing of the class.**
