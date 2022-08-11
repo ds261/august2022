@@ -28,7 +28,7 @@ _Office_: Room No-305 (CDS); Office Hours: 3:30PM–5:00PM (Friday)
 1. Probabilistic Machine Learning: An Introduction (Adaptive Computation and Machine Learning series), Kevin P. Murphy, The MIT Press, March 2022.
 2. Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence, Jon Krohn, Grant Beyleveld, and Aglae Bassens – Addison Wesley, 2019.
 
-**Reading materials are posted on [DS261 MS Teams page](https://bit.ly/3pcgLu4)
+**Reading materials are posted on [DS261 MS Teams page](https://bit.ly/3pcgLu4)**
 
 ## Course outline
 
