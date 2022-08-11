@@ -23,7 +23,7 @@ Following is the tentative calendar for the course.
 |8| Oct 4| PM| Deep learning: Loss functions, optimisation algorithms, etc.|
 |<span style="color:magenta">8</span>| <span style="color:magenta">Oct 6</span>| <span style="color:magenta">- </span>| <span style="color:magenta">Journal papers presentations</span>|
 |9|Oct 11|PM|Transfer learning, fine tuning, and generalization|
-|9|**Oct 13**| - |**Midterm exam**|
+|<span style="color:blue">**9**</span>|<span style="color:blue">**Oct 13**</span>|<span style="color:blue">-</span> |<span style="color:blue">**Midterm exam**</span>|
 |10|Oct 18 & 20|PM/PY|Evaluation methodology|
 |11|Oct 25 & 27| PM/PY|Challenges in healthcare AI deployment and regulatory|
 |12|Nov 3|PM|Unsupervised/self-supervised learning in MIA|
@@ -31,7 +31,7 @@ Following is the tentative calendar for the course.
 |14|Nov 15 & 17| PY| Generative models and inverse problems an catchup|
 |<span style="color:magenta">15</span>| <span style="color:magenta">Nov 24</span> |<span style="color:magenta">-</span>| <span style="color:magenta">Project report due</span>|
 |<span style="color:magenta">16</span>|<span style="color:magenta">Nov 29 & Dec 1</span>|<span style="color:magenta">-</span>|<span style="color:magenta">Final project presentations</span>|
-|-|**Dec 2-10**|-|**Final exam period**|
+|<span style="color:blue">-</span>|<span style="color:blue">**Dec 2-10**</span>|-</span>|<span style="color:blue">**Final exam period**</span>|
 
 
 
