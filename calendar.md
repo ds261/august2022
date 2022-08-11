@@ -33,7 +33,7 @@ Following is the tentative calendar for the course.
 |<span style="color:magenta">16</span>|<span style="color:magenta">Nov 29 & Dec 1</span>|<span style="color:magenta">-</span>|<span style="color:magenta">Final project presentations</span>|
 |<span style="color:blue">-</span>|<span style="color:blue">**Dec 2-10**</span>|<span style="color:blue">-</span>|<span style="color:blue">**Final exam period**</span>|
 
-
+*PY - Phaneendra Yalavarthy; PM - Prasad S. Murthy; NP - Naveen Paluru
 
 
 
