@@ -28,7 +28,7 @@ Following is the tentative calendar for the course.
 |11|Oct 25 & 27| PM/PY|Challenges in healthcare AI deployment and regulatory|
 |12|Nov 3|PM|Unsupervised/self-supervised learning in MIA|
 |13|Nov 10| PM| Unsupervised/self-supervised learning in MIA|
-|14|Nov 15 & 17| PY| Generative models and inverse problems an catchup|
+|14|Nov 15 & 17| PY| Generative models and inverse problems & catchup|
 |<span style="color:magenta">15</span>| <span style="color:magenta">Nov 24</span> |<span style="color:magenta">-</span>| <span style="color:magenta">Project report due</span>|
 |<span style="color:magenta">16</span>|<span style="color:magenta">Nov 29 & Dec 1</span>|<span style="color:magenta">-</span>|<span style="color:magenta">Final project presentations</span>|
 |<span style="color:blue">-</span>|<span style="color:blue">**Dec 2-10**</span>|<span style="color:blue">-</span>|<span style="color:blue">**Final exam period**</span>|
